@@ -34,13 +34,13 @@ profiles:
     url: 'mailto:manishx7@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
+    url: https://twitter.com/
+  # - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/manishcsx
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/manishkrishna7
   # - icon: academicons/google-scholar
     url: https://scholar.google.com/
   # - icon: academicons/orcid
@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cyber Security
+  - Aviation
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,11 +183,11 @@ awards:
 
 ## About Me
 
-Cybersecurity professional with a strong foundation in computer systems, networking, and security governance. I bring a global perspective from academic and work experiences in Australia and Singapore, with a strengths-based approach to delivering results in dynamic environments.
+Cybersecurity professional with a strong foundation in computer systems, networking, and Cyber Security (Bots). I bring a global perspective from academic and work experiences in Australia and Singapore, with a strengths-based approach to delivering results in dynamic environments.
 
 Key Areas of Expertise:
 
-- Network Security & Engineering
+- Cyber Security (Bots)
 - Cybersecurity Governance, Policy & Law (AU)
 - Incident Response & Cryptography
 - Embedded Systems & UNIX (C Programming)
