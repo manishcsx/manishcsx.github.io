@@ -187,8 +187,8 @@ Cybersecurity professional with a strong foundation in computer systems, network
 
 Key Areas of Expertise:
 
-Network Security & Engineering
-Cybersecurity Governance, Policy & Law (AU)
-Incident Response & Cryptography
-Embedded Systems & UNIX (C Programming)
-Java Development & Data Structures
+- Network Security & Engineering
+- Cybersecurity Governance, Policy & Law (AU)
+- Incident Response & Cryptography
+- Embedded Systems & UNIX (C Programming)
+- Java Development & Data Structures
