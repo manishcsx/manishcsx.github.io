@@ -34,17 +34,17 @@ profiles:
     url: 'mailto:manishx7@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/
+    url: https://twitter.com/manishcsx
   # - icon: brands/instagram
-    url: https://www.instagram.com/
+    #url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/manishcsx
   - icon: brands/linkedin
     url: https://www.linkedin.com/manishkrishna7
   # - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    #url: https://scholar.google.com/
   # - icon: academicons/orcid
-    url: https://orcid.org/
+    #url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -144,10 +144,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Malay
+    percent: 80
+  - name: Mandarin
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
