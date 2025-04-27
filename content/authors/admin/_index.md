@@ -113,7 +113,7 @@ work:
     company_url: 'https://www.imperva.com/'
     company_logo: ''
     date_start: 2024-04-01
-    date_end: 2024-11-31
+    date_end: 2024-11-29
     summary: |
       Responsibilities include:
       - Managed and organised shifts comprising of support engineers located in regional India and China.
