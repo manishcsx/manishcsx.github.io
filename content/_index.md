@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Manish Krishna"
+title: ""
 date: 2022-10-24
 type: landing
 
@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/mkresume.pdf
+        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -75,7 +75,7 @@ sections:
       columns: 1
   # - block: collection
     id: news
-    #content:
+    content:
       title: Recent News
       subtitle: ''
       text: ''
