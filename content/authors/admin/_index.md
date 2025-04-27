@@ -125,7 +125,7 @@ work:
     company_url: 'https://www.pwc.com/'
     company_logo: ''
     date_start: 2024-01-01
-    date_end: 2024-02-31
+    date_end: 2024-02-27
     summary: |2-
       Responsibilities include:
       - Installed monitors and keyboards to be deployed across the PwC Office.
@@ -135,7 +135,7 @@ work:
     company_url: 'https://www.structo3d.com/'
     company_logo: ''
     date_start: 2023-06-01
-    date_end: 2023-08-31
+    date_end: 2023-08-28
     summary: |2-
       Responsibilities include:
       - Augmented molds of 3D Scans.
@@ -145,7 +145,7 @@ work:
     company_url: 'https://www.beyondthevines.com/'
     company_logo: ''
     date_start: 2023-01-01
-    date_end: 2023-02-31
+    date_end: 2023-02-28
     summary: |
       Responsibilities include:
       - Counted stocks.
@@ -157,7 +157,7 @@ work:
     company_url: 'https://www.curtin.edu.au/'
     company_logo: ''
     date_start: 2021-02-01
-    date_end: 2021-11-31
+    date_end: 2021-11-29
     summary: |
       Responsibilities include:
       - Facilitated laboratory sessions for postgraduate and undergraduate students enrolled in Cisco Academy
@@ -172,7 +172,7 @@ work:
     company_url: 'https://www.ncs.co/'
     company_logo: ''
     date_start: 2018-01-01
-    date_end: 2018-02-31
+    date_end: 2018-02-28
     summary: |2-
       Responsibilities include:
       - Deployed software updates to custom operating environments.
@@ -184,7 +184,7 @@ work:
     company_url: 'https://www.hnf.org.sg/'
     company_logo: ''
     date_start: 2017-01-01
-    date_end: 2017-02-31
+    date_end: 2017-02-28
     summary: |
       Responsibilities include:
       - Proposed investigated perspectives and insights into the organisation’s computer networking initiatives.
