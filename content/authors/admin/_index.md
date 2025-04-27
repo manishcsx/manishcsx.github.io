@@ -222,10 +222,10 @@ skills:
         description: 'Reading and learning'
         percent: 100
         icon: plane
-      - name: Gaming
+      - name: Photography
         description: ''
         percent: 80
-        icon: console
+        icon: camera
 
 languages:
   - name: English
