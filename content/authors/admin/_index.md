@@ -99,28 +99,99 @@ education:
       - Object-Oriented Program Design
       - Computer Systems
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Security Analyst
+    company_name: Imperva
+    company_url: 'https://www.imperva.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-12-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Email me to find out more.
+  - position: Product Support Specialist (Intern)
+    company_name: Imperva (Singapore)
+    company_url: 'https://www.imperva.com/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-04-01
+    date_end: 2024-11-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Managed and organised shifts comprising of support engineers located in regional India and China.
+      - Implemented security changes for customers to sites onboarded to Imperva’s CWAF.
+      - Facilitated customer calls which involved the improvisation of implementing new product features.
+      - Authored both internal and external documentations for both external and internal stakeholders.
+  - position: IT/AV Technician
+    company_name: PwC Singapore
+    company_url: 'https://www.pwc.com/'
+    company_logo: ''
+    date_start: 2024-01-01
+    date_end: 2024-02-31
+    summary: |2-
+      Responsibilities include:
+      - Installed monitors and keyboards to be deployed across the PwC Office.
+      - Administered quality check upon installation of devices.
+  - position: Production Technician
+    company_name: Structo 3D (Singapore)
+    company_url: 'https://www.structo3d.com/'
+    company_logo: ''
+    date_start: 2023-06-01
+    date_end: 2023-08-31
+    summary: |2-
+      Responsibilities include:
+      - Augmented molds of 3D Scans.
+      - Cleaning of 3D Printers.
+  - position: Stock Taking Assistant (Warehouse)
+    company_name: Beyond the Vines (Singapore)
+    company_url: 'https://www.beyondthevines.com/'
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: 2023-02-31
+    summary: |
+      Responsibilities include:
+      - Counted stocks.
+      - Ensured stockcount accurace.
+      - Gift box/postage box folding and taping.
+      - Handwrote notes for customers. 
+  - position: Sessional Academic
+    company_name: Curtin University of Technology (Australia)
+    company_url: 'https://www.curtin.edu.au/'
+    company_logo: ''
+    date_start: 2021-02-01
+    date_end: 2021-11-31
+    summary: |
+      Responsibilities include:
+      - Facilitated laboratory sessions for postgraduate and undergraduate students enrolled in Cisco Academy
+        Introduction to Networking, Network Security and Cyber Security Operations courses.
+      - Deployed, maintained, and configured laboratory equipment (routers, switches, PCs) and networking software.
+      - Administered laboratory sessions for first-year university students enrolled in the unit 
+        Computer Systems (COMP2000).
+      - Delivered teaching, marking, and assessing of students registered in Network Engineering (CMPE3004) 
+        and Data Communications and Network Management (CMPE2000) units.
+  - position: Roving Technological Assistant
+    company_name: National Computer Systems Singapore (NCS)
+    company_url: 'https://www.ncs.co/'
+    company_logo: ''
+    date_start: 2018-01-01
+    date_end: 2018-02-31
+    summary: |2-
+      Responsibilities include:
+      - Deployed software updates to custom operating environments.
+      - Expanded and implemented custom images to laptops and PCs.
+      - Installed MS Operating Systems Patches and Updates.
+      - Provided technical support to Technological Assistants.
+  - position: Management Information Systems Intern
+    company_name: Home Nursing Foundation (Singapore)
+    company_url: 'https://www.hnf.org.sg/'
+    company_logo: ''
+    date_start: 2017-01-01
+    date_end: 2017-02-31
+    summary: |
+      Responsibilities include:
+      - Proposed investigated perspectives and insights into the organisation’s computer networking initiatives.
+      - Arranged and liaised with contractors for the installation of enterprise-level networking devices.
+      - Implemented and installed proposed network topology for an office renovation over multiple levels.
+      - Participated in weekly collaborative meetings within the Management Information Systems team, which oversaw 
+        the organisation’s Information Technology infrastructure.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
