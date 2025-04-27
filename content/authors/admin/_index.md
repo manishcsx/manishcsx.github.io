@@ -218,14 +218,14 @@ skills:
         description: 'Building Lego Technic'
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Aviation
+        description: 'Reading and learning'
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: plane
+      - name: Gaming
         description: ''
         percent: 80
-        icon: camera
+        icon: console
 
 languages:
   - name: English
