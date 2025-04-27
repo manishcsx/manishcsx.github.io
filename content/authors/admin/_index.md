@@ -54,35 +54,50 @@ interests:
 education:
   - area: MIST Information Security
     institution: Curtin University of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-01-01
+    date_end: 2023-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: GCert Cyber Security
-    institution: The University of Queensland
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Grade: High Distinction
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BTech Computer Systems and Networking
-    institution: Curtin University of Technology
-    date_start: 2016-01-01
+      - Computer Forensics
+      - Business Project Management
+      - Management and Organizational Behaviour
+      - Data Management, Information Systems Management
+      - Information Security Audit and Control
+      - Societal Impact of Technological Innovation
+      - Consultancy Capstone
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
+  - area: GCert Cyber Security
+    institution: The University of Queensland
+    date_start: 2020-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      Grade: Distinction
+
+      Courses included:
+      - Fundamentals of Cyber Security
+      - Cyber Criminology and Globalization
+      - Cyber Security Governance, Policy
+      - Ethics and Law
+      - Information Security Essentials
+  - area: BTech Computer Systems and Networking
+    institution: Curtin University of Technology
+    date_start: 2017-01-01
+    date_end: 2020-12-31
+    summary: |
+      Grade: Credit
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Network Engineering
+      - Microcomputers
+      - Embedded Systems Engineering
+      - Data Structures and Algorithms 
+      - Unix and C Programming
+      - Object-Oriented Program Design
+      - Computer Systems
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -112,7 +127,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Java
         description: ''
         percent: 80
         icon: code-bracket
@@ -128,8 +143,8 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
+      - name: Lego
+        description: 'Building Lego Technic'
         percent: 60
         icon: person-simple-walk
       - name: Cats
