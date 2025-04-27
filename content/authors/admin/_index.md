@@ -217,7 +217,7 @@ skills:
       - name: Lego
         description: 'Building Lego Technic'
         percent: 60
-        icon: person-simple-walk
+        icon: cone-striped
       - name: Cats
         description: ''
         percent: 100
