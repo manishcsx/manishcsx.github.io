@@ -202,7 +202,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Analyics
+      - name: Data Analysis
         description: ''
         percent: 100
         icon: chart-bar
@@ -219,10 +219,10 @@ skills:
         percent: 60
         icon: person-simple-walk
       - name: Aviation
-        description: 'Reading and learning'
+        description: ''
         percent: 100
-        icon: plane
-      - name: Photography
+        icon: cat
+      - name: Reading
         description: ''
         percent: 80
         icon: camera
