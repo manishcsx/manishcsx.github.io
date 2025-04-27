@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Interests'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        As a Security Analyst with a passion for Artificial Intelligence, Cyber Security, and Aviation, my mission is to contribute to the advancement of secure, intelligent systems that drive innovation and resilience across various industries. I specialize in analyzing and mitigating bot attacks — a persistent and evolving threat that impacts a broad spectrum of organizations and businesses.
         
-        Please reach out to collaborate 😃
+        Through a combination of qualitative and quantitative research methods, I explore ways to enhance the cyber security posture of businesses by creating, augmenting, and refining tools, applications, and programs that improve operational processes and system defenses.
+        
+        I am always open to meaningful collaborations. If you’re interested in working together to tackle complex cyber security challenges, particularly in the realm of automation, AI, and threat mitigation—please don’t hesitate to get in touch. 😃
     design:
       columns: '1'
   - block: collection
@@ -73,7 +73,7 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: collection
+  #- block: collection
     id: news
     content:
       title: Recent News
