@@ -201,15 +201,15 @@ skills:
       - name: Java
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: command-line
       - name: Data Analysis
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Product Troubleshooting
+      - name: Software Troubleshooting
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 60
+        icon: wrench-screwdriver
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
