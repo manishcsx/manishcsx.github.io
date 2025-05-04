@@ -1,6 +1,6 @@
 ---
 title: Test
-date: 2023-12-26
+# date: 2023-12-26
 external_link: https://github.com/pandas-dev/pandas
 tags:
   - Python
