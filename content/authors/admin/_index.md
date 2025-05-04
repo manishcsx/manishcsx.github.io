@@ -100,7 +100,7 @@ education:
       - Computer Systems
 work:
   - position: Security Analyst
-    company_name: Imperva
+    company_name: Imperva (Singapore)
     company_url: 'https://www.imperva.com/'
     company_logo: ''
     date_start: 2024-12-01
