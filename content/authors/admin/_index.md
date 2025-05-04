@@ -225,7 +225,7 @@ skills:
       - name: Reading
         description: ''
         percent: 80
-        icon: camera
+        icon: reading
 
 languages:
   - name: English
