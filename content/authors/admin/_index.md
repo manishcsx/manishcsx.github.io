@@ -269,7 +269,7 @@ awards:
 
 ## About Me
 
-Cybersecurity professional with a strong foundation in computer systems, networking, and Cyber Security (Bots). I bring a global perspective from academic and work experiences in Australia and Singapore, with a strengths-based approach to delivering results in dynamic environments.
+Cybersecurity professional with a strong foundation in computer systems, networking, and Cyber Security (Automated Bots). I bring a global perspective from academic and work experiences in Australia and Singapore, with a strengths-based approach to delivering results in dynamic environments.
 
 Key Areas of Expertise:
 
