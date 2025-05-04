@@ -217,15 +217,15 @@ skills:
       - name: Lego
         description: 'Building Lego Technic'
         percent: 60
-        icon: person-simple-walk
+        icon: table-cells
       - name: Aviation
         description: ''
         percent: 100
-        icon: cat
+        icon: paper-airplane
       - name: Reading
         description: ''
         percent: 80
-        icon: reading
+        icon: book-open
 
 languages:
   - name: English
