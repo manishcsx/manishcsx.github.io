@@ -273,8 +273,8 @@ Cybersecurity professional with a strong foundation in computer systems, network
 
 Key Areas of Expertise:
 
-- Cyber Security (Bots)
-- Cybersecurity Governance, Policy & Law (AU)
+- Cyber Security (Automated Bots)
+- Cybersecurity Governance, Policy & Law (AU/SG)
 - Incident Response & Cryptography
 - Embedded Systems & UNIX (C Programming)
 - Java Development & Data Structures
