@@ -8,4 +8,11 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+I developed a Python-based web scraper to interact with 
+a test e-commerce domain (http://manishsas.t1cloudwaf.com/) 
+for three minutes. The scraper continuously scans the site, 
+taking a screenshot if a condition ("Size M") becomes available. 
+The project aimed to evaluate Imperva's Anti-Bot Protection (ABP), 
+with the scraper designed to simulate human-like behavior by using 
+a local browser, unlike typical command-line bots.
+
