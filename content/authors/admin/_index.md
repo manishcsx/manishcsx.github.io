@@ -52,7 +52,7 @@ interests:
   - Aviation
 
 education:
-  - area: MIST Information Security
+  - area: Master of Information Systems and Technology - Information Security
     institution: Curtin University of Technology
     date_start: 2022-01-01
     date_end: 2023-12-31
@@ -70,7 +70,7 @@ education:
     #button:
       #text: 'Read Thesis'
       #url: 'https://example.com'
-  - area: GCert Cyber Security
+  - area: Graduate Certificate - Cyber Security
     institution: The University of Queensland
     date_start: 2020-01-01
     date_end: 2020-12-31
@@ -83,7 +83,7 @@ education:
       - Cyber Security Governance, Policy
       - Ethics and Law
       - Information Security Essentials
-  - area: BTech Computer Systems and Networking
+  - area: Bachelor of Technology - Computer Systems and Networking
     institution: Curtin University of Technology
     date_start: 2017-01-01
     date_end: 2020-12-31
