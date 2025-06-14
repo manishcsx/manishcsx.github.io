@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Test
 summary: My courses
 type: landing
 
@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Test1
       filters:
         folders:
           - teaching
