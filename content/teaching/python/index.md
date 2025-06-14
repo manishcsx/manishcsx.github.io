@@ -1,11 +1,12 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
+title: Interactive Dashboard - Using ArcGIS - Perth Metropolitan Bike Usage Dashboard
+summary: This project enhances a dashboard that analyzes bike usage patterns in Perth’s CBD to support transport planning and mode sharing. It identifies high-traffic areas, peak usage times, and infrastructure gaps, using speed data and visual insights. The initiative also encourages community engagement and promotes a stronger bike-riding culture.
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Python
+  - ArcGIS
+  - Data Analytics
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
@@ -18,9 +19,9 @@ On this page, you'll find some examples of the types of technical content that c
 
 ## Video
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+# Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-{{< youtube D2vj0WcvH5c >}}
+# {{< youtube D2vj0WcvH5c >}}
 
 **Youtube**:
 
@@ -32,25 +33,25 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 **Video file**
 
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+# Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
 
     {{</* video src="my_video.mp4" controls="yes" */>}}
 
 ## Podcast
 
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
+# You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
 
     {{</* audio src="ambient-piano.mp3" */>}}
 
-Try it out:
+# Try it out:
 
-{{< audio src="ambient-piano.mp3" >}}
+# {{< audio src="ambient-piano.mp3" >}}
 
 ## Test students
 
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
+# Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 
-```markdown
+# ```markdown
 {{</* spoiler text="👉 Click to view the solution" */>}}
 You found me!
 {{</* /spoiler */>}}
@@ -90,7 +91,7 @@ Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math *
 
 Example **multi-line math** using the math linebreak (`\\`):
 
-```latex
+#```latex
 {{</* math */>}}
 $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
 1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
@@ -127,9 +128,9 @@ data = pd.read_csv("data.csv")
 data.head()
 ```
 
-## Inline Images
+# ## Inline Images
 
-```go
+#```go
 {{</* icon name="python" */>}} Python
 ```
 
