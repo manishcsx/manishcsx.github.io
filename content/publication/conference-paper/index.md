@@ -1,12 +1,13 @@
 ---
-title: 'An example conference paper'
+title: 'Cyber Security History, Trends, and Research
+Opportunities in Satellite Technologies'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Manish Krishna
 
 # Author notes (optional)
 author_notes:
@@ -28,13 +29,14 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This research paper consists of an analysis of the history, trends, and research opportunities of cyber security in satellite technologies. The paper delves into the history of satellite technologies and past events of cyber-attacks that had occurred. Emerging trends such as the evolution of cyber- enabled disruptions, cyber threats on space-link communications, and cyber-attack vectors on unpatched and outdated legacy software’s deployed in satellite technologies is also investigated. Lastly, possible research opportunities such as the development of unilateral cyber-security standards, frameworks, and laws that could improve the overall governance of satellite technologies is explored. The research into the modernization of satellite legacy systems, common security architecture and the implementation of quantum communication encryption for satellite communications are investigated in a bid to improve the current cyber security posture in satellite technologies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper analyzes the history, current trends, and future research opportunities in cybersecurity for satellite technologies. It reviews past cyber-attacks on satellites, explores emerging threats like cyber disruptions, vulnerabilities in space-link communications, and risks from outdated legacy systems. The study also identifies research opportunities, including the need for standardized cybersecurity frameworks, modernizing legacy systems, developing unified security architectures, and exploring quantum encryption to enhance satellite cybersecurity.
 
 tags:
-  - Large Language Models
+  - Space Technology
+  - Cyber Security
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: '/static/uploads/mkresume.pdf'
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
