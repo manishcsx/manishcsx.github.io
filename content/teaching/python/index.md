@@ -11,7 +11,7 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+This [Dashboard](https://www.arcgis.com/apps/dashboards/c3a533e545db46029d817b9cbafdb8a1) was part of my Master’s final capstone project, where I collaborated closely with an industry partner to augment a dashboard designed to analyze bike usage patterns in Perth’s CBD. The dashboard supports data-driven decisions by identifying peak usage periods, high-traffic areas, and infrastructure gaps to improve transport planning and encourage mode sharing.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
