@@ -13,7 +13,7 @@ image:
 
 This [Dashboard](https://www.arcgis.com/apps/dashboards/c3a533e545db46029d817b9cbafdb8a1) was part of my Master’s final capstone project, where I collaborated closely with an industry partner to augment a dashboard designed to analyze bike usage patterns in Perth’s CBD. The dashboard supports data-driven decisions by identifying peak usage periods, high-traffic areas, and infrastructure gaps to improve transport planning and encourage mode sharing.
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+# *Embed videos, podcasts, code, LaTeX math, and even test students!**
 
 # On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
@@ -47,7 +47,7 @@ This [Dashboard](https://www.arcgis.com/apps/dashboards/c3a533e545db46029d817b9c
 
 # {{< audio src="ambient-piano.mp3" >}}
 
-## Test students
+# Test students
 
 # Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 
@@ -55,31 +55,31 @@ This [Dashboard](https://www.arcgis.com/apps/dashboards/c3a533e545db46029d817b9c
 # {{</* spoiler text="👉 Click to view the solution" */>}}
 You found me!
 # {{</* /spoiler */>}}
-```
+# ```
 
-renders as
+# renders as
 
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
+# {{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
 
-## Math
+# Math
 
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
+# Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
 
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
+# To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
 
-{{% callout note %}}
-We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
-{{% /callout %}}
+# {{% callout note %}}
+# We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
+# {{% /callout %}}
 
-Example **math block**:
+# Example **math block**:
 
-```latex
-{{</* math */>}}
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-{{</* /math */>}}
-```
+# ```latex
+# {{</* math */>}}
+# $$
+# \gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+# $$
+# {{</* /math */>}}
+# ```
 
 # renders as
 
@@ -114,19 +114,19 @@ $$
 # Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
 
 
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
+    # ```python
+    # import pandas as pd
+    # data = pd.read_csv("data.csv")
+    # data.head()
+    # ```
 
 # renders as
 
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
+# ```python
+# import pandas as pd
+# data = pd.read_csv("data.csv")
+# data.head()
+# ```
 
 # ## Inline Images
 
