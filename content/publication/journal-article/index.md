@@ -1,8 +1,13 @@
 ---
-title: "An example journal article"
+title: "Perth Metropolitan Bike Usage Dashboard"
 authors:
 - admin
-- Robert Ford
+- Manish Krishna
+- Anum Zafar
+- Yunman Ping
+- Diep Xuan Ngoc Vo
+- Syed Muhammad Hussain
+- Syed Muhammad Owais
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -18,16 +23,16 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Master's Capstone Project, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This project, undertaken as part of a Master’s capstone, focuses on enhancing a data visualization dashboard that analyzes bike usage patterns within the Perth CBD. Developed in collaboration with an industry partner, the dashboard aims to support urban transport planning and promote mode sharing by identifying high-usage bike paths, peak riding periods, and areas requiring infrastructure improvements. It incorporates spatial and speed data analysis to uncover safety and connectivity gaps, while also fostering community engagement to strengthen the local cycling culture. Leveraging tools such as ArcMap, the platform offers robust mapping, data management, and statistical capabilities in a user-friendly interface, enabling clear insights and actionable reporting for stakeholders.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This Master’s capstone project enhances a dashboard analyzing bike usage in Perth’s CBD to support transport planning and promote mode sharing. In collaboration with an industry partner, the dashboard identifies high-use paths, peak times, and infrastructure gaps using spatial and speed data. It also fosters community engagement and delivers actionable insights through user-friendly tools like ArcMap.
 
 tags:
-- Source Themes
+- Data Analytics
 featured: false
 
 # links:
