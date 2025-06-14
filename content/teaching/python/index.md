@@ -15,29 +15,29 @@ This [Dashboard](https://www.arcgis.com/apps/dashboards/c3a533e545db46029d817b9c
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+# On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
-## Video
+# Video
 
 # Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
 # {{< youtube D2vj0WcvH5c >}}
 
-**Youtube**:
+# **Youtube**:
 
     {{</* youtube w7Ft2ymGmfc */>}}
 
-**Bilibili**:
+# **Bilibili**:
 
     {{</* bilibili id="BV1WV4y1r7DF" */>}}
 
-**Video file**
+# **Video file**
 
 # Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
 
     {{</* video src="my_video.mp4" controls="yes" */>}}
 
-## Podcast
+# Podcast
 
 # You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
 
@@ -52,9 +52,9 @@ On this page, you'll find some examples of the types of technical content that c
 # Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 
 # ```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
+# {{</* spoiler text="👉 Click to view the solution" */>}}
 You found me!
-{{</* /spoiler */>}}
+# {{</* /spoiler */>}}
 ```
 
 renders as
@@ -81,37 +81,37 @@ $$
 {{</* /math */>}}
 ```
 
-renders as
+# renders as
 
-{{< math >}}
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-{{< /math >}}
+# {{< math >}}
+# $$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+# {{< /math >}}
 
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
+# Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
 
-Example **multi-line math** using the math linebreak (`\\`):
+# Example **multi-line math** using the math linebreak (`\\`):
 
-#```latex
-{{</* math */>}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
-```
+# ```latex
+# {{</* math */>}}
+# $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
+# 1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
+# {{</* /math */>}}
+# ```
 
-renders as
+# renders as
 
-{{< math >}}
+# {{< math >}}
 
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
+# $$
+# f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
+# 1-p_{0}^{*} & \text{if }k=0.\end{cases}
+# $$
 
-{{< /math >}}
+# {{< /math >}}
 
-## Code
+# Code
 
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+# Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
 
 
     ```python
@@ -120,7 +120,7 @@ Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code synta
     data.head()
     ```
 
-renders as
+# renders as
 
 ```python
 import pandas as pd
@@ -130,12 +130,12 @@ data.head()
 
 # ## Inline Images
 
-#```go
-{{</* icon name="python" */>}} Python
-```
+# ```go
+# {{</* icon name="python" */>}} Python
+# ```
 
-renders as
+# renders as
 
-{{< icon name="python" >}} Python
+# {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌
+# Did you find this page helpful? Consider sharing it 🙌
