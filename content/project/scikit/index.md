@@ -8,7 +8,7 @@ tags:
   - Cyber
 ---
 
-This toolkit has been developed for a SAS Analyst to flood API Endopints and to generate traffic.
+This toolkit has been developed for a SAS Analyst to flood API Endpints and to generate traffic.
 UA's can be changed and swapped. POST and GET requests are incoporated into this. 
 
 <!--more-->
