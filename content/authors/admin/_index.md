@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/manishcsx
   - icon: brands/linkedin
-    url: https://www.linkedin.com/manishkrishna7
+    url: https://www.linkedin.com/in/manishkrishna7
   # - icon: academicons/google-scholar
     #url: https://scholar.google.com/
   # - icon: academicons/orcid
