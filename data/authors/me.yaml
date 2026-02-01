@@ -7,10 +7,10 @@ name:
   family: Krishna
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: 
+  pronouns: MIST, GCert, BTech
 postnominals:
-  - PhD
-  - MIEEE
+  - MIST
+  - Btech
 status:
   icon: "🚀"
 role: Security Analyst
