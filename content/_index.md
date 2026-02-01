@@ -82,7 +82,7 @@ sections:
           - events
     design:
       view: card
-  - block: collection
+ # - block: collection
     id: news
     content:
       title: Recent News
