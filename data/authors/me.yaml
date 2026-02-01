@@ -69,38 +69,81 @@ education:
     end: 2020-01-01
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Security Analyst
+    org: Imperva
+    start: 2024-11-01
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+    #button:
+      #text: View portfolio
+      #url: /
+      #icon: hero/arrow-down-tray
+  - role: Product Support Specialist - Intern
+    org: Imperva
+    start: 2024-04-01
+    end: 2024-10-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Coordinated international support shifts while delivering high-impact security configurations 
+      and custom product solutions for Imperva CWAF clients.
+  - role: Temp IT/AV Technician
+    org: PricewaterhouseCoopers (PwC Singapore)
+    start: 2024-01-01
+    end: 2024-02-01
+    summary: |
+      Optimized office IT infrastructure by providing hands-on technical support, managing hardware 
+      deployments, and maintaining meticulous asset inventory records.
+  - role: Production Technician
+    org: Structo 3D
+    start: 2023-05-01
+    end: 2023-08-31
+    summary: |
+      Supported 3D printing engineering projects by executing test protocols, managing machine 
+      maintenance, and ensuring rigorous data logging throughout the production cycle.
+  - role: Stocktaking Warehouse Assistant
+    org: Beyond the Vines
+    start: 2023-04-01
+    end: 2023-05-30
+    summary: |
+      Maintained high inventory integrity by performing precise stock reconciliations and ensuring 
+      the accurate, timely fulfillment of logistics orders.
+  - role: Sessional Academic
+    org: Curtin University (Australia)
+    start: 2021-02-01
+    end: 2021-11-31
+    summary: |
+      Facilitated advanced networking and cybersecurity labs, managing both the physical network 
+      infrastructure and the academic instruction for undergraduate and postgraduate students.
+  - role: Roving Technological Assistant
+    org: National Computer Systems (Singapore)
+    start: 2018-01-01
+    end: 2018-02-31
+    summary: |
+      Enhanced team productivity by providing hands-on technical guidance to support staff while 
+      streamlining custom OS deployments and system-wide patch management.
+  - role: Management Information Systems Intern
+    org: Home Nursing Foundation (Singapore)
+    start: 2017-01-01
+    end: 2017-02-01
+    summary: |
+      Collaborated with MIS teams to provide networking insights and coordinate with contractors 
+      to implement multi-level, enterprise-scale network infrastructure.
 
 skills:
   - name: Technical Skills
     items:
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
         level: 4
+      - label: Machine Learning
+        level: 4
+      - label: Cloud Computing
+        level: 5
   - name: Research & Communication
     items:
       - label: Academic Writing
         level: 5
-      - label: Conference Presentations
+      - label: Academic Presentations
         level: 4
-      - label: Grant Proposals
+      - label: Curriculum Development
         level: 4
 
 languages:
