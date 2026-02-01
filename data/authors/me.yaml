@@ -15,10 +15,11 @@ status:
   icon: "🚀"
 role: Security Analyst
 bio: |
-  Manish Krishna is a Security Analyst at Imperva. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Manish Krishna is a Security Analyst at Imperva specializing in bot detection
+  and automated threat mitigation. He is passionate about bridging the gap
+  between academia and industry through the development of practical cybersecurity
+  curricula for fresh graduates. His research interests include Aviation, AI, and
+  the application of Machine Learning models to streamline security operations.
 
 affiliations:
   - name: Imperva
@@ -33,7 +34,7 @@ links:
   - icon: brands/github
     url: https://github.com/manishcsx
   - icon: brands/linkedin
-    url: https://www.linkedin.com/manishkrishna7
+    url: https://www.linkedin.com/manishkrishna7/
   #- icon: academicons/google-scholar
     #url: https://scholar.google.com/citations?user=example
   #- icon: academicons/orcid
@@ -104,7 +105,10 @@ languages:
   - name: English
     level: 5
     label: Native
-  - name: Spanish
+  - name: Mandarin
+    level: 4
+    label: Fluent
+  - name: Malay
     level: 4
     label: Fluent
 
