@@ -16,10 +16,12 @@ status:
 role: Security Analyst
 bio: |
   Manish Krishna is a Security Analyst at Imperva specializing in bot detection
-  and automated threat mitigation. He is passionate about bridging the gap
-  between academia and industry through the development of practical cybersecurity
-  curricula for fresh graduates. His research interests include Aviation, AI, and
-  the application of Machine Learning models to streamline security operations.
+  and automated threat mitigation. A solutions-driven professional, he has a
+  keen interest in people management and team leadership. Manish is passionate
+  about addressing industry gaps by bridging the divide between academia and the
+  professional world through specialized curriculum development. His broader
+  interests include Aviation and Artificial Intelligence, where he leverages
+  Machine Learning to streamline security operations.
 
 affiliations:
   - name: Imperva
@@ -47,24 +49,24 @@ interests:
   - Aviation
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: MIST Information Security
+    institution: Curtin University
+    start: 2022-01-01
+    end: 2023-09-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Capstone project on augementic data analytics dashboard for the council City of Perth bicycle crashes. 
     button:
-      text: Download dissertation
-      url: /resume.pdf
+      text: Download Capstone Project
+      url: /capstonegroup.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: GCert Cyber Security
+    institution: The University of Queensland
+    start: 2020-07-01
+    end: 2020-05-31
+  - degree: BTech Computer Systems and Networking
+    institution: Curtin University
+    start: 2016-01-01
+    end: 2020-01-01
 
 experience:
   - role: Senior AI Research Scientist
