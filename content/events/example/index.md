@@ -1,9 +1,9 @@
 ---
-title: "Create Beautiful Presentations with Markdown"
-date: '2017-01-01T00:00:00Z'
+title: "Modern Bot Threats in E-Commerce: Detection & Defense in Action"
+date: '2025-06-11T00:00:00Z'
 
-event_name: HugoBlox Showcase
-event_url: https://hugoblox.com
+event_name: Imperva Community Webinar
+event_url: https://community.imperva.com/events/event-description?CalendarEventKey=24ef6bcb-bce0-46f1-9a5a-0196f7dc87b2&CommunityKey=39c6092a-d67a-4bc2-8134-bfbb25fc43af&Home=%2fevents%2fevent-description
 
 location: Online & In-Person
 address:
@@ -13,12 +13,16 @@ address:
   postcode: '94305'
   country: United States
 
-summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
+summary: This upcoming webinar features experts Manish Krishna and Ishita Jain, who will dive into the evolving landscape of bot usage in the e-commerce sector.
 abstract: |
-  Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
+  Join us for an engaging webinar that will explore the latest trends in bot usage within the e-commerce industry. Manish Krishna and Ishita Jain will examine various use cases, highlighting both the challenges and opportunities that bots present to online retailers. 
+
+Our Security Analyst Services will be showcased, demonstrating how they can effectively mitigate risks associated with bot activities. The session will also include a demo, providing practical insights and tools to better manage bot-related concerns. Attendees will leave with a comprehensive understanding of bot dynamics and actionable strategies to enhance security in their e-commerce operations.
+
+As always we will leave time for a live Q&A at the end of the session.
 
 # Talk start and end times.
-event_start: '2030-06-01T13:00:00Z'
+event_start: '2025-06-01T13:00:00Z'
 event_end: '2030-06-01T15:00:00Z'
 event_all_day: false
 
@@ -26,10 +30,10 @@ authors:
   - me
 
 tags:
-  - Markdown
-  - Presentations
-  - Open Science
-  - Academic
+  - Cyber Security
+  ## - Presentations
+  ## - Open Science
+  ## - Academic
 
 featured: true
 
@@ -49,37 +53,37 @@ links:
     url: https://docs.hugoblox.com/guides/slides/
 
 # Link to your Markdown slides
-slides: "example"
+# slides: "example"
 
-projects: []
+# projects: []
 ---
 
 ## 🎯 Why Markdown Slides?
 
-> [!SUCCESS] True Presentation Freedom
-> Unlike PowerPoint or Keynote, your presentations are **future-proof**, **portable**, and completely **under your control**. No proprietary formats, no vendor lock-in, no subscription fees.
+# > [!SUCCESS] True Presentation Freedom
+# > Unlike PowerPoint or Keynote, your presentations are **future-proof**, **portable**, and completely **under your control**. No proprietary formats, no vendor lock-in, no subscription fees.
 
 ### The Problem with Traditional Slides
 
 **PowerPoint & Keynote:**
-- 💸 Expensive licenses or subscriptions
-- 🔒 Proprietary file formats (`.pptx`, `.key`)
-- 💻 Platform-specific (Windows/Mac only)
-- 📦 Large binary files
-- 🚫 Difficult to version control
-- 😰 Lost formatting when sharing
+## - 💸 Expensive licenses or subscriptions
+## - 🔒 Proprietary file formats (`.pptx`, `.key`)
+## - 💻 Platform-specific (Windows/Mac only)
+## - 📦 Large binary files
+## - 🚫 Difficult to version control
+## - 😰 Lost formatting when sharing
 
 **Google Slides:**
-- ☁️ Requires internet connection
-- 🔐 Data stored on Google's servers
-- 📱 Limited offline editing
-- 🎨 Formatting breaks when exporting
-- 🔗 Dependency on Google's platform
+## - ☁️ Requires internet connection
+## - 🔐 Data stored on Google's servers
+## - 📱 Limited offline editing
+## - 🎨 Formatting breaks when exporting
+## - 🔗 Dependency on Google's platform
 
 ### The Hugo Blox Solution
 
-> [!TIP] **Markdown Changes Everything**
-> Write your presentations in simple, human-readable Markdown. Edit anywhere, present anywhere, own forever.
+## > [!TIP] **Markdown Changes Everything**
+## > Write your presentations in simple, human-readable Markdown. Edit anywhere, present anywhere, own forever.
 
 ---
 
