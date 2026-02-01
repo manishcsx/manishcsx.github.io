@@ -15,8 +15,11 @@ address:
 
 summary: This upcoming webinar features experts Manish Krishna and Ishita Jain, who will dive into the evolving landscape of bot usage in the e-commerce sector.
 abstract: |
-  : Join us for an engaging webinar that will explore the latest trends in bot usage within the e-commerce industry. Manish Krishna and Ishita Jain will examine various use cases, highlighting both the challenges and opportunities that bots present to online retailers.
-Our Security Analyst Services will be showcased, demonstrating how they can effectively mitigate risks associated with bot activities. The session will also include a demo, providing practical insights and tools to better manage bot-related concerns. Attendees will leave with a comprehensive understanding of bot dynamics and actionable strategies to enhance security in their e-commerce operations.
+  Join us for an engaging webinar that will explore the latest trends in bot usage within the e-commerce industry. Manish Krishna and Ishita Jain will examine various use cases, highlighting both the challenges and opportunities that bots present to online retailers.
+  
+  Our Security Analyst Services will be showcased, demonstrating how they can effectively mitigate risks associated with bot activities. The session will also include a demo, providing practical insights and tools to better manage bot-related concerns. Attendees will leave with a comprehensive understanding of bot dynamics and actionable strategies to enhance security in their e-commerce operations.
+
+  As always we will leave time for a live Q&A at the end of the session.
 
 As always we will leave time for a live Q&A at the end of the session.
 
