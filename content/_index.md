@@ -39,10 +39,13 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📖 My Mission'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My mission is to solve complex security challenges through data-driven insights and strategic analysis.
+        While my technical expertise lies in neutralizing bots and automated cyber threats, my professional focus
+        is on people management and team leadership. I strive to build solutions-driven environments where data
+        informs critical decisions.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
