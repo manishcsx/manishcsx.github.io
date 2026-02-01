@@ -20,9 +20,6 @@ abstract: |
   Our Security Analyst Services will be showcased, demonstrating how they can effectively mitigate risks associated with bot activities. The session will also include a demo, providing practical insights and tools to better manage bot-related concerns. Attendees will leave with a comprehensive understanding of bot dynamics and actionable strategies to enhance security in their e-commerce operations.
 
   As always we will leave time for a live Q&A at the end of the session.
-
-As always we will leave time for a live Q&A at the end of the session.
-
 # Talk start and end times.
 event_start: '2025-06-01T13:00:00Z'
 event_end: '2030-06-01T15:00:00Z'
