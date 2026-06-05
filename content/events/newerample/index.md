@@ -4,7 +4,7 @@ date: '2026-03-05T00:00:00Z'
 
 event_name: Imperva Hong Kong Partner Training
 event_url: 
-description
+description:
 
 location: In-Person
 address:
