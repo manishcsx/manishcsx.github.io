@@ -3,8 +3,8 @@ title: "Global Partner Enablement: Advanced Bot Protection (Hong Kong)"
 date: '2026-03-05T00:00:00Z'
 
 event_name: Imperva Hong Kong Partner Training
-event_url: 
-description:
+event_url: ''
+description: ''
 
 location: In-Person
 address:
@@ -14,11 +14,13 @@ address:
   postcode: '94305'
   country: Hong Kong
 
-summary: Manish led an Advanced Bot Protection training session in Hong Kong designed to equip partners with the expertise needed to combat modern automated threats. The curriculum focused on three core pillars:
-Threat Intelligence: An deep dive into current challenges such as scalping, web scraping, and API-based attacks.
-Practical Defense: Application of industry-standard mitigation tactics aligned with the OWASP Top 21 framework.
-Operational Execution: A live simulation of a bot attack, allowing participants to experience real-world detection workflows and refine their incident response strategies.
-The training fostered high engagement and provided partners with actionable insights to better defend enterprise-scale and e-commerce environments against evolving malicious automation.
+summary: >
+  Manish led an Advanced Bot Protection training session in Hong Kong designed to equip partners with the expertise needed to combat modern automated threats. The curriculum focused on three core pillars:
+  Threat Intelligence: A deep dive into current challenges such as scalping, web scraping, and API-based attacks.
+  Practical Defense: Application of industry-standard mitigation tactics aligned with the OWASP Top 21 framework.
+  Operational Execution: A live simulation of a bot attack, allowing participants to experience real-world detection workflows and refine their incident response strategies.
+  The training fostered high engagement and provided partners with actionable insights to better defend enterprise-scale and e-commerce environments against evolving malicious automation.
+
 abstract: |
   This session provided comprehensive partner enablement on Advanced Bot Protection, addressing the increasing sophistication of automated threats targeting modern digital infrastructure. Through a blend of theoretical analysis and practical demonstration, participants examined the current threat landscape—including API abuse and web scraping—and evaluated mitigation strategies mapped to the OWASP Top 21 Automated Threats. The session emphasized the critical role of security analysts in the detection, investigation, and remediation of complex bot traffic within enterprise and e-commerce ecosystems.
 # Talk start and end times.
