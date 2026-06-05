@@ -3,7 +3,7 @@ title: "Global Partner Enablement: Advanced Bot Protection (Hong Kong)"
 date: '2026-03-05T00:00:00Z'
 
 event_name: Imperva Hong Kong Partner Training
-event_url: NA
+event_url: 
 description
 
 location: In-Person
