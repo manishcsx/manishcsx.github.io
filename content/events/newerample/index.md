@@ -1,28 +1,29 @@
 ---
-title: "Modern Bot Threats in E-Commerce: Detection & Defense in Action"
-date: '2025-06-11T00:00:00Z'
+title: "Global Partner Enablement: Advanced Bot Protection (Hong Kong)"
+date: '2026-03-05T00:00:00Z'
 
-event_name: Imperva Community Webinar
-event_url: https://community.imperva.com/events/event-description?CalendarEventKey=24ef6bcb-bce0-46f1-9a5a-0196f7dc87b2&CommunityKey=39c6092a-d67a-4bc2-8134-bfbb25fc43af&Home=%2fevents%2fevent-description
+event_name: Imperva Hong Kong Partner Training
+event_url: NA
+description
 
-location: Online & In-Person
+location: In-Person
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  city: Mongkok
+  region: CN
   postcode: '94305'
-  country: United States
+  country: Hong Kong
 
-summary: This upcoming webinar features experts Manish Krishna and Ishita Jain, who will dive into the evolving landscape of bot usage in the e-commerce sector.
+summary: Manish led an Advanced Bot Protection training session in Hong Kong designed to equip partners with the expertise needed to combat modern automated threats. The curriculum focused on three core pillars:
+Threat Intelligence: An deep dive into current challenges such as scalping, web scraping, and API-based attacks.
+Practical Defense: Application of industry-standard mitigation tactics aligned with the OWASP Top 21 framework.
+Operational Execution: A live simulation of a bot attack, allowing participants to experience real-world detection workflows and refine their incident response strategies.
+The training fostered high engagement and provided partners with actionable insights to better defend enterprise-scale and e-commerce environments against evolving malicious automation.
 abstract: |
-  Join us for an engaging webinar that will explore the latest trends in bot usage within the e-commerce industry. Manish Krishna and Ishita Jain will examine various use cases, highlighting both the challenges and opportunities that bots present to online retailers.
-  
-  Our Security Analyst Services will be showcased, demonstrating how they can effectively mitigate risks associated with bot activities. The session will also include a demo, providing practical insights and tools to better manage bot-related concerns. Attendees will leave with a comprehensive understanding of bot dynamics and actionable strategies to enhance security in their e-commerce operations.
-
-  As always we will leave time for a live Q&A at the end of the session.
+  This session provided comprehensive partner enablement on Advanced Bot Protection, addressing the increasing sophistication of automated threats targeting modern digital infrastructure. Through a blend of theoretical analysis and practical demonstration, participants examined the current threat landscape—including API abuse and web scraping—and evaluated mitigation strategies mapped to the OWASP Top 21 Automated Threats. The session emphasized the critical role of security analysts in the detection, investigation, and remediation of complex bot traffic within enterprise and e-commerce ecosystems.
 # Talk start and end times.
-event_start: '2025-06-01T13:00:00Z'
-event_end: '2030-06-01T15:00:00Z'
+event_start: '2026-03-05T13:00:00Z'
+event_end: '2026-05-05T15:00:00Z'
 event_all_day: false
 
 authors:
